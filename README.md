@@ -1,5 +1,5 @@
 # Project Status
-This project is on indefinite hiatus. Check the forks tab to see if anyone is maintaining a fork of this project. I have relicensed olauncher as CC0 with the consent of the contributors, so you are free to distribute any forks with whatever license you see fit.
+This project is currently forked by me - currently in order to study the code
 
 # olauncher
 The old launcher we all know and love with the quality-of-life features of the new launcher. This aims to support java 8 through modern java.
